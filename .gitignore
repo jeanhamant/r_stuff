@@ -1,0 +1,48 @@
+.ICEauthority
+.Kega Fusion/
+.Skype/
+.Xauthority
+.adobe/
+.cache/
+.compiz/
+.config/
+.dbus/
+.fceux/
+.filezilla/
+.gconf/
+.gens/
+.gimp-2.8/
+.gnome2/
+.gvba/
+.histfile
+.local/
+.macromedia/
+.mess/
+.mozilla/
+.nestopia/
+.oh-my-zsh/
+.pki/
+.puNES/
+.rbenv/
+.stella/
+.thumbnails/
+.thunderbird/
+.xsession-errors
+.xsession-errors.old
+.zcompdump
+.zcompdump-jano-Q320-P320-5.0.2
+.zprezto/
+.zsh-update
+.zsh_history
+.zshrc
+.zshrc.pre-oh-my-zsh
+.zshrc.zni
+.zsnes/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Untitled 1.html
+Untitled 1.jpg
+Untitled 1.odp
+code/
